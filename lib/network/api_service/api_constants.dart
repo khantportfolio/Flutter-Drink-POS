@@ -1,7 +1,5 @@
 /// Base URL
-//const String BASE_URL = "http://192.168.100.148:8000/api/"; // small k wifi
-const String BASE_URL = "http://yankinbubbletea.kwintechnologykw11.com/api/";
-//const String BASE_URL = "http://192.168.100.21:8000/api/"; // K wifi
+const String BASE_URL = "http://example.dev.com/api/";
 
 /// Endpoints
 const String ENDPOINT_CATEGORY_LIST = "categories";
