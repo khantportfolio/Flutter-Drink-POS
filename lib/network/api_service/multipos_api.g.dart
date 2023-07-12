@@ -13,7 +13,7 @@ class _MultiPosApi implements MultiPosApi {
     this._dio, {
     this.baseUrl,
   }) {
-    baseUrl ??= 'http://yankinbubbletea.kwintechnologykw11.com/api/';
+    baseUrl ??= 'http://example.com/api/';
   }
 
   final Dio _dio;
